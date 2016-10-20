@@ -2,7 +2,7 @@
 $('h1').lettering();
 
 // Intialize Backstretch
-$.backstretch('/nameplate/img/bg.jpg');
+$.backstretch('/img/bg.jpg');
 
 // Intialize Masonry
 $('article').masonry({
