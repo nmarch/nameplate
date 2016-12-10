@@ -32,7 +32,8 @@ h1 {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .3em;
-    font-family: 'Josefin Sans', sans-serif;  
+    font-family: 'Josefin Sans', sans-serif; 
+    color: darkslategrey;
 }
 
 h3{
@@ -49,6 +50,7 @@ font-family: 'Questrial', sans-serif;
     line-height: 1.8em;
     font-size: .8em;
     margin: 5em;
+    color: darkslategrey;
     
 }
 
