@@ -54,6 +54,11 @@ font-family: 'Questrial', sans-serif;
     
 }
 
+li{
+    list-style: none;
+    padding: .5em;
+    
+}
 
 /* Masonry Styling */
 section {
@@ -64,15 +69,14 @@ section {
 }
 
 .tall {
-  height: 600px;
-}
+  
 
 .med {
-  height: 400px;
+ 
 }
 
 .short {
-  height: 200px;
+ 
 }
 
 /********************
