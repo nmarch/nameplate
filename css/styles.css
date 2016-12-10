@@ -27,12 +27,6 @@ article {
     
 }
 
-.me{
-    width: 100%;
-   
-    
-}
-
 h1 {
     font-size: 6em;
     text-align: center;
@@ -47,33 +41,16 @@ h3{
     text-align: right;
     font-size: .8em;
     margin: auto;
-    padding-bottom: 1em;
 }
 
 p{
 font-family: 'Questrial', sans-serif;
     text-align: left;
-    line-height: 2em;
+    line-height: 1.8em;
     font-size: .8em;
-    margin: 3em;
+    margin: 5em;
     
 }
-
-
-
-ul,
-li {
-text-decoration: none;
-    list-style: none;  
-
-}
-
-a img{
-    margin: 1em;
-    
-}
-
-
 
 
 /* Masonry Styling */
@@ -81,20 +58,19 @@ section {
   background: rgba(183, 182, 182, 0.75);
   /* vertical space between */
   margin-bottom: 10px;
-  
   width: 200px;
 }
 
 .tall {
-
+  height: 600px;
 }
 
 .med {
-  
+  height: 400px;
 }
 
 .short {
- 
+  height: 200px;
 }
 
 /********************
